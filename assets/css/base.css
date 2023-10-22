@@ -133,7 +133,7 @@ section {
   position: absolute;
   width: 24px;
   height: 24px;
-  background: url('/assets/img/arrow_icon.png');
+  background: url('../../assets/img/arrow_icon.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -172,7 +172,7 @@ section {
   position: absolute;
   width: 65px;
   height: 23px;
-  background-image: url('/assets/img/heading-shapes.png');
+  background-image: url('../../assets/img/heading-shapes.png');
   top: 4px;
   right: -80px;
 }
